@@ -1,2 +1,5 @@
-# my_1st_instance
-my_1st_instance
+Install terraform using below command
+
+sudo chmod 755 tf-installation.sh
+sudo sh tf-installation.sh 
+
